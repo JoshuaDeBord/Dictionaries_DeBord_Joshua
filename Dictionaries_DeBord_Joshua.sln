@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries_DeBord_Joshua", "Dictionaries_DeBord_Joshua.csproj", "{8F9B59D3-0B65-48C2-AC24-5D38C16AE4DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F9B59D3-0B65-48C2-AC24-5D38C16AE4DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F9B59D3-0B65-48C2-AC24-5D38C16AE4DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F9B59D3-0B65-48C2-AC24-5D38C16AE4DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F9B59D3-0B65-48C2-AC24-5D38C16AE4DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A70A0652-1FAD-44BE-AA4E-01332C9C8599}
+	EndGlobalSection
+EndGlobal
